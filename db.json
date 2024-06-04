@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Regular Burger",
+            "price": 25,
+            "category": "Burger"
+        },
+        {
+            "id": 2,
+            "name": "Cheese Burger",
+            "price": 30,
+            "category": "Burger"
+        },
+        {
+            "id": 3,
+            "name": "Chicken Burger",
+            "price": 35,
+            "category": "Burger"
+        },
+        {
+            "id": 4,
+            "name": "Regular Pizza",
+            "price": 50,
+            "category": "Pizza"
+        },
+        {
+            "id": 5,
+            "name": "Cheese Pizza",
+            "price": 60,
+            "category": "Pizza"
+        },
+        {
+            "id": 6,
+            "name": "Chicken Pizza",
+            "price": 70,
+            "category": "Pizza"
+        },
+        {
+            "id": 7,
+            "name": "Regular Pasta",
+            "price": 40,
+            "category": "Pasta"
+        },
+        {
+            "id": 8,
+            "name": "Cheese Pasta",
+            "price": 50,
+            "category": "Pasta"
+        },
+        {
+            "id": 9,
+            "name": "Chicken Pasta",
+            "price": 60,
+            "category": "Pasta"
+        },
+        {
+            "id": 10,
+            "name": "Regular Sandwich",
+            "price": 30,
+            "category": "Sandwich"
+        },
+        {
+            "id": 11,
+            "name": "Cheese Sandwich",
+            "price": 35,
+            "category": "Sandwich"
+        },
+        {
+            "id": 12,
+            "name": "Chicken Sandwich",
+            "price": 40,
+            "category": "Sandwich"
+        },
+        {
+            "id": 13,
+            "name": "Regular Salad",
+            "price": 20,
+            "category": "Salad"
+        },
+        {
+            "id": 14,
+            "name": "Cheese Salad",
+            "price": 25,
+            "category": "Salad"
+        },
+        {
+            "id": 15,
+            "name": "Chicken Salad",
+            "price": 30,
+            "category": "Salad"
+        }
+    ]
+}
